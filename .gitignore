@@ -1,3 +1,2 @@
-gsa_export_config.sublime-project
-gsa_export_config.sublime-workspace
-
+.idea/
+venv/
